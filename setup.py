@@ -25,7 +25,7 @@ packages = [
 
 requires = [
     'pika',
-    'Scrapy>=0.14'
+    'scrapy>=1.0'
 ]
 
 setup(
