@@ -1,7 +1,5 @@
 __author__ = 'roycehaynes'
 
-import ipdb
-
 from scrapy.spiders import Spider
 from scrapy import signals
 from scrapy.exceptions import DontCloseSpider
